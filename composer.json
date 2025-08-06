@@ -1,0 +1,8 @@
+{
+    "name": "brinquedoteca/controle",
+    "description": "Sistema de Controle da Brinquedoteca",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
